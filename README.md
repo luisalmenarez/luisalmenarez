@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, Soy Luis Almenarez</h1>
-<h3 align="center">un entusiasta desarrollador Frontend</h3>
+<h3 align="center">Un entusiasta desarrollador Frontend</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 

@@ -1,5 +1,7 @@
-<h1 align="center">Hola! 👋, Soy Luis Almenarez</h1>
-<h3 align="center">Un entusiasta desarrollador Frontend</h3>
+<h1 align="center">Hola! Mi nombre es Luis Almenarez 👋</h1>
+<h3 align="center">Soy un apasionado Desarrollador web</h3>
+
+![Banner Github](https://github.com/Luis-Almenarez/Luis-Almenarez/assets/125621759/eb2cb7ad-0513-448a-9b0e-70154f2a9514)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 

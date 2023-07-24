@@ -3,11 +3,11 @@
 
 ![Banner](https://github.com/Luis-Almenarez/Luis-Almenarez/assets/125621759/4d9affa6-769c-4494-856b-1c4b6fc10f10)
 
-[![HTML](https://img.shields.io/badge/-HTML-ff4500?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-2965f1?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SASS](https://img.shields.io/badge/-SASS-ff69b4?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![JS](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+![HTML](https://img.shields.io/badge/-HTML-ff4500?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-2965f1?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-ff69b4?style=flat&logo=sass&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white)
 
 
 

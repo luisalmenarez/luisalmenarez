@@ -7,6 +7,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-2965f1?style=flat&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-ff69b4?style=flat&logo=sass&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white)
 
 

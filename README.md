@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi, I'm Luis Almenarez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center"> A passionate web developer from Colombia 🇨🇴</h3>
+<h3 align="center"> A passionate web wizard from Colombia 🇨🇴</h3>
 
 ![Banner](https://github.com/Luis-Almenarez/Luis-Almenarez/assets/125621759/4d9affa6-769c-4494-856b-1c4b6fc10f10)
 

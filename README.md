@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Luis Almenarez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Luis Almenarez👋</h1>
 <h3 align="center">A web wizard from Colombia 🇨🇴</h3>
 
 <p align="center">
@@ -40,6 +40,7 @@
 
 <hr>
 
+<h3 align="center">Technology stack </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,js,gulp,git,github,react,jest,figma,&perline=14" />

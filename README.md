@@ -43,7 +43,7 @@
 <h3 align="center">Technology stack </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,js,gulp,git,github,react,jest,figma,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,js,ts,gulp,git,github,react,nextjs,jest,figma,firebase,&perline=14" />
   </a>
 </p>
 

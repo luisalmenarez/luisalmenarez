@@ -2,8 +2,9 @@
 <h3 align="center">A web wizard from Colombia 🇨🇴</h3>
 
 <p align="center">
-  <img src="https://github.com/Luis-Almenarez/Luis-Almenarez/assets/125621759/4d9affa6-769c-4494-856b-1c4b6fc10f10" alt="Banner" />
+  <img src="https://github.com/luisalmenarez/luisalmenarez/assets/125621759/b01d8188-1cf9-40a3-b098-260fc83d524c" alt="Banner" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-ff4500?style=flat&logo=html5&logoColor=white" />

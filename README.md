@@ -2,7 +2,7 @@
 <h3 align="center">A web wizard from Colombia 🇨🇴</h3>
 
 <p align="center">
-  <img src="https://github.com/luisalmenarez/luisalmenarez/assets/125621759/b01d8188-1cf9-40a3-b098-260fc83d524c" alt="Banner" />
+  <img src="https://github.com/luisalmenarez/luisalmenarez/assets/125621759/557e9eca-86f1-4948-a471-9f217b114d91" alt="Banner" />
 </p>
 
 

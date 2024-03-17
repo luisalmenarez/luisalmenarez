@@ -1,20 +1,22 @@
 <h1 align="center"><b>Hi, I'm Luis Almenarez👋</h1>
-<h3 align="center">A web wizard from Colombia 🇨🇴</h3>
+<h3 align="center">A web wizard from Colombia 🇨🇴✨</h3>
 
 <p align="center">
-  <img src="https://github.com/luisalmenarez/luisalmenarez/assets/125621759/557e9eca-86f1-4948-a471-9f217b114d91" alt="Banner" />
+  <img src="https://github.com/luisalmenarez/luisalmenarez/assets/125621759/e28bdf78-510a-4dc5-b501-7c59d1dfa580" alt="Banner" />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-ff4500?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-2965f1?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-SASS-ff69b4?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=black" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jest-15c213?style=flat&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/-%20Testing%20Library-61DAFB?style=flat&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />

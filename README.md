@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi, I'm Luis Almenarez👋</h1>
-<h3 align="center">A web wizard from Colombia 🇨🇴✨</h3>
+<h3 align="center">A Software wizard from Colombia 🇨🇴✨</h3>
 
 <p align="center">
   <img src="https://github.com/luisalmenarez/luisalmenarez/assets/125621759/e28bdf78-510a-4dc5-b501-7c59d1dfa580" alt="Banner" />

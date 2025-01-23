@@ -5,6 +5,27 @@
   <img src="https://github.com/luisalmenarez/luisalmenarez/assets/125621759/e28bdf78-510a-4dc5-b501-7c59d1dfa580" alt="Banner" />
 </p>
 
+<h3 align="center">💼 Professional Experience</h3>
+<p align="center">
+  <b>Frontend Developer | React & Next.js Specialist</b>
+</p>
+
+<p align="center">
+  Currently working on high-impact projects.
+</p>
+
+<details>
+<summary align="center">🚀 Current Role Highlights</summary>
+<br>
+<p align="center">
+  • Leading development initiatives using React.js and Next.js<br>
+  • Collaborating with cross-functional teams in private repositories<br>
+  • Implementing modern web solutions with TypeScript and TailwindCSS<br>
+  • Conducting thorough code reviews and maintaining high code quality<br>
+  • Working with agile methodologies in enterprise-level applications
+</p>
+</details>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-ff4500?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-2965f1?style=flat&logo=css3&logoColor=white" />
@@ -23,10 +44,66 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
+<h3 align="center">📊 Development Activity</h3>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisalmenarez&theme=dark&hide_border=true" />
+</div>
+
+<details>
+<summary align="center">✨ Recent Contributions</summary>
+<br>
+<p align="center">
+  🔒 Active contributor to private enterprise repositories<br>
+  📝 Regular code reviewer for team pull requests<br>
+  🛠️ Developing features for production applications<br>
+  🤝 Collaborating with senior developers and stakeholders
+</p>
+</details>
+
+<h3 align="center">🛠️ Technical Expertise</h3>
+
+<details>
+<summary align="center">View Tech Stack</summary>
+<br>
+<p align="center">
+  <b>Frontend Development</b><br>
+  React.js • Next.js • TypeScript • TailwindCSS • SASS
+</p>
+
+<p align="center">
+  <b>Backend & Database</b><br>
+  Node.js • Express.js • SQL Server • MongoDB
+</p>
+
+<p align="center">
+  <b>Development Tools</b><br>
+  Git • GitHub • VS Code • Docker • Storybook
+</p>
+
+<p align="center">
+  <b>Methodologies</b><br>
+  Agile • Scrum • Code Review • CI/CD
+</p>
+</details>
+
+<div align="center">
+  <a href="https://github.com/luisalmenarez/">
+    <img src="https://github-readme-stats.vercel.app/api?username=luisalmenarez&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisalmenarez&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&langs_count=8&count_private=true" width="375"  alt="Luis Almenarez"/>
+  </a>
+</div>
+
+<h3 align="center">Technology stack</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,js,ts,gulp,git,github,react,nextjs,express,jest,figma,firebase,mongodb,&perline=14" />
+  </a>
+</p>
+
 - 📫 How to reach me **luisalmenarez0428@gmail.com**
 
 <hr>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/luisalmenarez/" target="_blank">
@@ -44,28 +121,3 @@
 </p>
 
 <hr>
-
-<h3 align="center">Technology stack </h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,js,ts,gulp,git,github,react,nextjs,express,jest,figma,firebase,mongodb,&perline=14" />
-  </a>
-</p>
-
-<div align="center">
-  <a href="https://github.com/luisalmenarez/">
-    <img src="https://github-readme-stats.vercel.app/api?username=luisalmenarez&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&token=process.env.PAT_1" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisalmenarez&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Luis Almenarez"/>
-  </a>
-</div>
-
-<hr>
-
-
-
-
-
-
-
-
-
